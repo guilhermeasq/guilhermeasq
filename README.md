@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guilhermeasq
-- 👀 I’m interested in becoming and Front-end developer
+- 👀 I’m interested in becoming a Front-end developer
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 📫 How to reach me: guilhermeasq@gmail.com
 
